@@ -1,1 +1,1 @@
-# IBM-fashion-chatbot
+# IBM-fashion-chatbot   https://us-south.assistant.watson.cloud.ibm.com/crn%3Av1%3Abluemix%3Apublic%3Aconversation%3Aus-south%3Aa%2F2284a4005c6a456784283213c65e8796%3Ad57fceaa-2003-424c-933b-e7fc109b4a06%3A%3A/skills/9ee3fa18-17f2-44c9-97ea-19055ed324f9/authoring/actions/custom/edit/action_30003#
